@@ -1,0 +1,10 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+.info {
+  text-align: center;
+  color: rgb(47, 47, 228);
+  font-family:Impact;
+}
